@@ -6,7 +6,8 @@
     <!-- Main Attribute:
     ┊   ┊fetch:all projects' git URL prefix
     -->
-    <remote name="origin" fetch="git@github.com:afirez" />
+    <remote name="origin"/>
+    <!-- <remote name="origin" fetch="git@github.com:afirez" /> -->
 
     <!-- default element. all projects' default attribute if project element not specified -->
     <!-- Main Attribute:
